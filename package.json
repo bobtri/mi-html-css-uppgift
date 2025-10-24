@@ -1,0 +1,23 @@
+{
+  "name": "mi-html-css-uppgift",
+  "version": "1.0.0",
+  "description": "Används till kursen HTML/CSS hos MI",
+  "main": "index.js",
+  "scripts": {
+    "validate": "npx w3c-html-validator index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobtri/mi-html-css-uppgift.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bobtri/mi-html-css-uppgift/issues"
+  },
+  "homepage": "https://github.com/bobtri/mi-html-css-uppgift#readme",
+  "devDependencies": {
+    "w3c-html-validator": "^1.9.1"
+  }
+}
